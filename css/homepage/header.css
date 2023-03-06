@@ -1,0 +1,27 @@
+/* HEADER */
+h1 {
+    color: #901C1C;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.8em;
+    width: fit-content;
+}
+
+header {
+    align-items: center;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-top: 2rem;
+    overflow: hidden;
+    margin-top: 0;
+}
+
+header img {
+    width: 12.5rem;
+}
+
+header nav a {
+    margin-bottom: 0;
+}
+
+

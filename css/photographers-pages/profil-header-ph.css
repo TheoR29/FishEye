@@ -1,0 +1,57 @@
+/* HEADER PH PROFIL */
+.ph-city {
+    color: #901c1c;
+    margin: 0;
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+
+.ph-infos h2 {
+    color: #D3573C;
+    margin: 0;
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+
+.ph-profil {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: #FAFAFA;
+    margin: 0 20px;
+    background: #fafafa;
+    padding: 2rem;
+}
+
+.ph-profil button {
+    background: #901c1c;
+    border: none;
+    border-radius: 5px;
+    bottom: 28px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 500;
+    width: 170px;
+    padding: 1rem;
+}
+
+.ph-profil button:hover {
+    background: #D35C3C;
+    transform: scale(1.05);
+}
+
+.ph-profil img {
+    border-radius: 50%;
+    object-fit: cover;
+    height: 200px;
+    width: 200px;
+}
+
+
+
+
+
+
+
